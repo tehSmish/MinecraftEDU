@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "minecraftedu:block/not_block"}, 
+        "facing=south": { "model": "minecraftedu:block/not_block", "y": 180}, 
+        "facing=east": { "model": "minecraftedu:block/not_block", "y": 90},
+        "facing=west": { "model": "minecraftedu:block/not_block", "y": 270}
+        }
+}

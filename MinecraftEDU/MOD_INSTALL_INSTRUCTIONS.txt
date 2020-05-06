@@ -1,0 +1,16 @@
+steps to install the Minecraft EDU mod:
+
+1. Install minecraft version 1.15.2 from https://www.minecraft.net/en-us/store/minecraft-java-edition
+2. Once installed download the FORGE installer for 1.15.2 from https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.15.2.html
+3. Run FORGE and install the client.
+4. A toggle should appear at the bottom left of the client next to PLAY, close and reopen the client if its not there
+5. Run the modded game, at the main menue click 'Mods', then 'Open Mods Folder'
+6. In another window navigate too 'MinecraftEDU\build\libs' 
+7. Drag 'minecraftedu-1.15.2-0.1.0.jar' into the Mods Folder opened by the client.
+8. Relaunch the game and the mod is sucsessfuly installed.
+
+Steps to use the modded content.
+
+1. Start a game in creative mode.
+2. Open the creative Menu (E) and press the '>' button at the top of the screen.
+3. Click the egg icon labled 'MinecraftEDU' in here is the modded content. 

@@ -1,0 +1,6 @@
+{
+	"item.minecraftedu.example_item": "Example Item",
+	"blockitem.minecraftedu.not_block": "Not Block",
+	"block.minecraftedu.not_block": "Not Block",
+	"itemGroup.minecraftedu": "MinecraftEDU"
+}
